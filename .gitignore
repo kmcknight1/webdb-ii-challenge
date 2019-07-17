@@ -63,5 +63,3 @@ typings/
 # VSCode settings
 .vscode/
 
-# Database 
-./data/*
